@@ -1,47 +1,11 @@
-<h2 align="left">Hi 👋!</h2>
+## Hi there! 👋
 
-###
+I'm **Aleksey**, a passionate developer eager to explore and contribute to the world of software development. I enjoy tackling challenges and creating solutions that make a difference!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tartas37&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tartas37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I am currently based in an undisclosed location and I am actively seeking opportunities to grow and collaborate with like-minded individuals. I have a strong interest in open-source projects and love to share knowledge with the community.
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6652%2Fa173038b188981d16f9e47e039313b37ccc9a099_hq.gif&f=1&nofb=1&ipt=20d24e03aa5741581eb79b952504911c7e0efc08dee2e2e1370b2be55110e8e4&ipo=images"  />
+## Skills & Technologies
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="aleksejs.makejevs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aleksejs-makejevs-7a155034b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tartas37/Tartas37/output/snake.svg" alt="Snake animation" />
-
-###
+git,github,html,css,flask,django
