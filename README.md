@@ -1,9 +1,33 @@
 ## Hi there! 👋
 
-I'm **Aleksey**, a passionate developer eager to explore and contribute to the world of software development. I enjoy tackling challenges and creating solutions that make a difference!
+My name is **Aleksey** and I'm excited to share my journey as a developer with you. I'm passionate about coding and constantly exploring new technologies!
 
 ## About Me
 
-I am currently based in an undisclosed location and I am actively seeking opportunities to grow and collaborate with like-minded individuals. I have a strong interest in open-source projects and love to share knowledge with the community.
+I am a budding developer with a keen interest in creating efficient and innovative solutions. Currently, I am working on personal projects to sharpen my skills. I am based in a flexible location and open to remote opportunities.
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,flask,django&perline=8)](https://skillicons.dev)
+## Skills & Technologies
+
+html,css,git,github,py,flask,django,linux,arch
+
+## GitHub Stats
+
+Public Repositories: ![Repo Badge](https://img.shields.io/badge/Public%20Repos-1-brightgreen)
+
+## Connect with Me
+
+
+
+## ASCII Art
+
+```
+████████╗ █████╗ ██████╗ ████████╗ █████╗ ███████╗██████╗ ███████╗
+╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝╚════██╗╚════██║
+   ██║   ███████║██████╔╝   ██║   ███████║███████╗ █████╔╝    ██╔╝
+   ██║   ██╔══██║██╔══██╗   ██║   ██╔══██║╚════██║ ╚═══██╗   ██╔╝ 
+   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║███████║██████╔╝   ██║  
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═════╝    ╚═╝  
+                                                                  
+
+                                         
+```
