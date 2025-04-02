@@ -14,10 +14,6 @@ html,css,git,github,py,flask,django,linux,arch
 
 Public Repositories: ![Repo Badge](https://img.shields.io/badge/Public%20Repos-1-brightgreen)
 
-## Connect with Me
-
-
-
 ## ASCII Art
 
 ```
